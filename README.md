@@ -60,9 +60,9 @@ python main.py
 ```
 
 ## 📷 Screenshots
-![alt text]("image.png")
+![ER-Diagram in WorkBench]("ER.png")
 
-![alt text]("image-1.png")
+![CLI]("CLI.png")
 
 ## 👨‍💻 Author
 Monish — [GitHub Profile](https://github.com/Monish102006)
