@@ -60,9 +60,9 @@ python main.py
 ```
 
 ## 📷 Screenshots
-![ER-Diagram in WorkBench]("ER.png")
+![ER-Diagram in WorkBench]("D:\Hospital Mgmt\screenshots\ER.png")
 
-![CLI]("CLI.png")
+![CLI]("D:\Hospital Mgmt\screenshots\CLI.png")
 
 ## 👨‍💻 Author
 Monish — [GitHub Profile](https://github.com/Monish102006)
